@@ -17,6 +17,13 @@
     color: black;
 }
 
+.name:hover {
+    text-shadow: 2px 2px seagreen;
+    filter: blur(1px);
+    border-style: dotted;
+    border-width: 1px;
+}
+
 .lordgoring {
     color: red;
 }
