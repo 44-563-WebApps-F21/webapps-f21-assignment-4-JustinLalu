@@ -28,3 +28,16 @@
 .stage-direction:hover {
     background-color: lightpink;
 }
+
+table, td, th{
+    border:2px solid black;
+    text-align: center;
+}
+
+td, th{
+    padding: 10px;
+}
+
+tr:nth-child(1) {
+    background-color: #bdbcbcfd;
+  }
